@@ -6,15 +6,15 @@ Apply changes and reload YouTube. Enjoy!
 
 If you only want to filter certain subcategories here are separate lists:
 
-https://raw.githubusercontent.com/Onsotumenh/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Search.txt
+https://raw.githubusercontent.com/adhdandy/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Search.txt
 
-https://raw.githubusercontent.com/Onsotumenh/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Home.txt
+https://raw.githubusercontent.com/adhdandy/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Home.txt
 
-https://raw.githubusercontent.com/Onsotumenh/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Video.txt
+https://raw.githubusercontent.com/adhdandy/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Video.txt
 
-https://raw.githubusercontent.com/Onsotumenh/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Shorts.txt
+https://raw.githubusercontent.com/adhdandy/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Shorts.txt
 
-https://raw.githubusercontent.com/Onsotumenh/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Optional.txt
+https://raw.githubusercontent.com/adhdandy/YouTube-Cosmetic-Filters-for-uBlock-Origin/main/Optional.txt
 
 If you only want certain filters, copy them out of the .txt and put them in the "my filters" tab in the uBlock dashboard. Those won't update when the repository updates.
 
